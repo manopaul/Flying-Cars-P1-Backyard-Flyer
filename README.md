@@ -20,34 +20,34 @@ Make a simulated drone fly in a square shape!
 ### Without visualization
 1. By cloning the FCND-Term1-Starter-Kit directory, set up the virtual environment locally and activate it using the following command
 
-`source activate fcnd`
+  `source activate fcnd`
 
-2.  Clone the backyard flyer repository.
+2. Clone the backyard flyer repository.
 
-`git clone https://github.com/manopaul/Flying-Cars-P1-Backyard-Flyer.git`
+   `git clone https://github.com/manopaul/Flying-Cars-P1-Backyard-Flyer.git`
 
 3. Download and run the Simulator and click on the Backyard Flyer icon
 
 4. Open a Terminal window and run the following command
 
-`python backyard_flyer.py`
+  `python backyard_flyer.py`
 
 You should be able to observe what is shown in the video below
 
 ### Without visualization
 1. By cloning the FCND-Term1-Starter-Kit directory, set up the virtual environment locally and activate it using the following command
 
-`source activate fcnd`
+  `source activate fcnd`
 
 2. Clone the backyard flyer repository.
 
-`git clone https://github.com/manopaul/Flying-Cars-P1-Backyard-Flyer.git`
+  `git clone https://github.com/manopaul/Flying-Cars-P1-Backyard-Flyer.git`
 
 3. Download and run the Simulator and click on the Backyard Flyer icon
 
 4. Open a Terminal window and run the following command to start the visdom.server
 
-`python -m visdom.server`
+  `python -m visdom.server`
 
 If the server starts successfully, You will be presented with a link. The default link is http://localhost:8097
 
@@ -55,7 +55,7 @@ If the server starts successfully, You will be presented with a link. The defaul
 
 6. Open another terminal window and run the following command
 
-`python backyard_flyer_with_visualization.py`
+  `python backyard_flyer_with_visualization.py`
 
 You should see the drone trajectory plot in the browser window
 
