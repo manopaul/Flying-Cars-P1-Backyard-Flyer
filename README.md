@@ -24,6 +24,7 @@ The callback methods for the drone are:
   `python backyard_flyer.py`  
   
 You should be able to observe what is shown in the video below
+[![Backyard Flyer](http://img.youtube.com/vi/QNJYx7xtHCw/0.jpg)](https://youtu.be/QNJYx7xtHCw)
 
 ### With visualization
 1. By cloning the FCND-Term1-Starter-Kit directory, set up the virtual environment locally and activate it using the following command  
@@ -39,8 +40,10 @@ You should be able to observe what is shown in the video below
   `python backyard_flyer_with_visualization.py`  
   
 You should see the drone trajectory plot in the browser window as shown below
+![NED Plots](Flying-Cars-P1-Backyard-Flyer/images/NED_Plot.png)
   
-You should be able to observe what is shown in the video below  
+You should be able to observe what is shown in the video below
+[![Backyard Flyer - With Visualization](http://img.youtube.com/vi/ldWTuRG2d4Y/0.jpg)](https://youtu.be/ldWTuRG2d4Y)
 
 ### Observations and Suggestions
 Plotting the drone trajectory indicated that the target values are not absolute.  
