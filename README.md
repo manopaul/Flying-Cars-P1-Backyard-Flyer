@@ -25,7 +25,7 @@ The callback methods for the drone are:
   
 You should be able to observe what is shown in the video below
 
-### Without visualization
+### With visualization
 1. By cloning the FCND-Term1-Starter-Kit directory, set up the virtual environment locally and activate it using the following command  
   `source activate fcnd`  
 2. Clone the backyard flyer repository.  
