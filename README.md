@@ -34,7 +34,7 @@ You should be able to observe what is shown in the video below
 3. Download and run the Simulator and click on the Backyard Flyer icon  
 4. Open a Terminal window and run the following command to start the visdom.server  
   `python -m visdom.server`  
-  If the server starts successfully, You will be presented with a link. The default link is http://localhost:8097  
+   If the server starts successfully, You will be presented with a link. The default link is http://localhost:8097  
 5. Open a web browser and paste the link in the URL address bar and navigate to this link  
 6. Open another terminal window and run the following command  
   `python backyard_flyer_with_visualization.py`  
