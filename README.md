@@ -39,8 +39,8 @@ You should be able to observe what is shown in the video below
 6. Open another terminal window and run the following command  
   `python backyard_flyer_with_visualization.py`  
   
-You should see the drone trajectory plot in the browser window as shown below
-![NED Plots](Flying-Cars-P1-Backyard-Flyer/images/NED_Plot.png)
+You should see the drone trajectory plot in the browser window as shown below  
+![NED Plots](https://github.com/manopaul/Flying-Cars-P1-Backyard-Flyer/tree/master/images/NED_Plot.png)  
   
 You should be able to observe what is shown in the video below
 [![Backyard Flyer - With Visualization](http://img.youtube.com/vi/ldWTuRG2d4Y/0.jpg)](https://youtu.be/ldWTuRG2d4Y)
